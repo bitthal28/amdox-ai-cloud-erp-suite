@@ -1,13 +1,14 @@
 # AI_Powered_ERP_SUITE
 # 🏢 AI-Powered Cloud ERP Suite
 
+## 🌐 Live Demo
+
+https://web-client-4apk.onrender.com
+
 An enterprise-grade AI-powered Cloud ERP platform developed as part of the Amdox Technologies Project Program (Group 4).
 
 The platform unifies Finance, Human Resources, Supply Chain Management, Project Tracking, and Business Intelligence into a single scalable multi-tenant system. It leverages AI-based forecasting and analytics to help organizations automate workflows, improve operational efficiency, and make data-driven decisions.
 
-## 🌐 Live Demo
-
-https://web-client-4apk.onrender.com
 
 ## ✨ Key Features
 
