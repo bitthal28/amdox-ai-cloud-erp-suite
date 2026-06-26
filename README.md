@@ -25,15 +25,15 @@ The platform unifies Finance, Human Resources, Supply Chain Management, Project 
 * 🌐 REST & GraphQL APIs
 * 📱 Progressive Web App (PWA) Support
 
-## Screenshots
+<h3>🔐 Login Portal</h3>
+<p align="center">
+  <img src="login.png" alt="Login Portal" width="600">
+</p>
 
-### Screenshot 1
-
-![Screenshot 1](screenshots/login.png)
-
-### Screenshot 2
-
-![Screenshot 2](screenshots/dashboard.png)
+<h3>📊 Business Intelligence Dashboard</h3>
+<p align="center">
+  <img src="dashboard.png" alt="Dashboard" width="600">
+</p>
 
 ## 🛠️ Technology Stack
 
