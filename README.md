@@ -27,12 +27,12 @@ The platform unifies Finance, Human Resources, Supply Chain Management, Project 
 
 <h3>🔐 Login Portal</h3>
 <p align="center">
-  <img src="login.png" alt="Login Portal" width="600">
+  <img src="screenshots/login.png" alt="Login Portal" width="600">
 </p>
 
 <h3>📊 Business Intelligence Dashboard</h3>
 <p align="center">
-  <img src="dashboard.png" alt="Dashboard" width="600">
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="600">
 </p>
 
 ## 🛠️ Technology Stack
